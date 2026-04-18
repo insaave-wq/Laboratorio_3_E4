@@ -6,8 +6,7 @@
 #define ALUMNO_H
 
 /** @brief Se define la estructura para almacenar los datos de un alumno*/
-typedef struct alumno_s *alumno_t;
-
+typedef struct alumno_s * alumno_t;
 
 /** @brief Crea una instancia de alumno_t con los datos proporcionados.
  * @param nombre Nombre del alumno.
