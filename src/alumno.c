@@ -26,8 +26,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 SPDX-License-Identifier: MIT
 *************************************************************************************************/
 
-/** @brief Implementación de la función Serializar.
- * @file alumno.c
+/** @file alumno.c
+ * @brief Implementación de la estructura alumno y funciones relacionadas.
  */
 
 #include <string.h>
